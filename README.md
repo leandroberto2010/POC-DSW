@@ -19,3 +19,6 @@ Integrantes grupo Playwright:
 
 ## Informe completo:
 ### https://docs.google.com/document/d/1uyVfe_bssp7PtnGMCcP8EwSDerzgrUz_eFSHPj2iQ1c/edit?usp=sharing
+
+### Repo de Cypress:
+https://github.com/junkamp/testing/tree/main
