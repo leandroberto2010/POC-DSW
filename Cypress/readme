@@ -1,0 +1,8 @@
+Descargar dependencias
+npm install
+
+Inicar proyecto: 
+npx cypress open
+
+o Con npm:
+npm run cypress:open
